@@ -1,0 +1,76 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="324" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="3.9" />
+            <item index="1" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyInconsistentIndentationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyRedundantParenthesesInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="myIgnoreTupleInReturn" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PySingleQuotedDocstringInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="docutils" />
+          <option value="docutils-stubs==0.0.21" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Cocoa.NSRunningApplication" />
+          <option value="AppKit.*" />
+          <option value="Quartz.*" />
+          <option value="cv2.*" />
+          <option value="asq.after_last" />
+          <option value="AVFoundation.AVCaptureDevice" />
+          <option value="AVFoundation.*" />
+          <option value="typing.Generator.done" />
+          <option value="typing.Generator.exception" />
+          <option value="typing.Generator.__await__" />
+          <option value="str.decode" />
+          <option value="functools.cached_property" />
+          <option value="mnemonics.*" />
+          <option value="instructions.*" />
+          <option value="test_assembler.*" />
+          <option value="asm68.mnemonics.*" />
+          <option value="test_instructions.*" />
+          <option value="_importlib_modulespec.ModuleType.*" />
+          <option value="str.value" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
